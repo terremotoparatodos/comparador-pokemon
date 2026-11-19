@@ -1,0 +1,4 @@
+.cache/
+_site/
+# Retratos bajados localmente (node scripts/fetch-portraits.mjs). SpriteCollab, CC BY-NC 4.0.
+portraits/
